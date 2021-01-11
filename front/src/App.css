@@ -1,0 +1,17 @@
+.App {
+  background-image: url(../src/components/image/bg.jpg);
+  padding: 250px;
+  padding-top: 20px;
+}
+
+.body {
+  padding-top: 50px;
+  padding-left: -200px;
+  margin-left: -245px;
+}
+
+.footer {
+  padding-top: 50px;
+  text-align: center;
+}
+
